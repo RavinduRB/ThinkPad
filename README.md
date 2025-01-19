@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/ea25ef2d-c420-4dcb-a262-37d8df0c2194
 
 ### 🟢 Technologies Used  
 
-#### **Frontend**  
+#### 🔸 **Frontend**  
 1. **HTML5**:  
    - Provides the basic structure for the application.  
    - Semantic tags enhance accessibility and SEO.  
