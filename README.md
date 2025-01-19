@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/ea25ef2d-c420-4dcb-a262-37d8df0c2194
 
 --- 
 
-### 🔴**Special Features of ThinkPad**
+### 🔴 **Special Features of ThinkPad**
 
 #### **1. Voice Recognition for Hands Free Note Taking**
    - Dictate your notes instead of typing, using the built in **voice recognition** feature.
