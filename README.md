@@ -33,21 +33,44 @@ https://github.com/user-attachments/assets/ea25ef2d-c420-4dcb-a262-37d8df0c2194
 5. **Google Fonts**:  
    - Adds the **Roboto** font for a clean and professional look.  
 
----
+--- 
 
-### 🟢 Features  
+### 🔴**Special Features of ThinkPad**
 
-1. **Note Management**:  
-   - Create, edit, and delete notes with a polished and responsive UI.  
+#### **1. Voice Recognition for Hands Free Note Taking**
+   - Dictate your notes instead of typing, using the built in **voice recognition** feature.
+   - Microphone icons are available beside both the **Title** and **Content** fields in the note modal.
+   - Perfect for users who want a faster and more efficient way to record their thoughts or for situations where typing isn’t convenient.
 
-2. **Voice Typing**:  
-   - Speech to text integration for easy and hands free note creation.  
+#### **2. Auto Save to Local Storage**
+   - All notes are automatically saved to your browser’s **local storage**, ensuring privacy and data persistence.
+   - Notes remain available even if you close or refresh the application, without requiring an internet connection.
 
-3. **Local Storage**:  
-   - Persistently saves notes locally without requiring a server, ensuring data availability across sessions.  
+#### **3. Fully Responsive Design**
+   - The interface adapts to various screen sizes, including mobile phones, tablets, and desktops.
+   - Enjoy a seamless experience on any device, whether you're working on the go or at your desk.
 
-4. **Responsive Design**:  
-   - Fully responsive layout optimized for mobile, tablet, and desktop screens.  
+#### **4. Edit and Update Notes Easily**
+   - Modify existing notes effortlessly with the **Edit** button.
+   - Previous content is prefilled in the modal, allowing you to make quick updates without starting from scratch.
+
+#### **5. Rich Text Formatting**
+   - Supports **line breaks** in the content field, allowing you to create structured and easy to read notes.
+   - Automatically converts new lines into `<br>` tags for proper display.
+
+#### **6. Lightweight and Fast**
+   - The application is built using lightweight technologies such as **Tailwind CSS** and **Font Awesome**, ensuring fast load times and smooth performance.
+
+#### **7. User Friendly Grid Layout**
+   - Notes are displayed in a **clean and organized grid**, making it easy to browse and find what you need.
+   - Supports dynamic resizing for better viewing on various screen resolutions.
+
+#### **8. Easy Note Deletion**
+   - Quickly remove notes you no longer need with the **Delete** button, keeping your workspace clutter free.
+
+#### **9. No Account Required**
+   - Unlike many apps, **ThinkPad** does not require user registration or login.
+   - All data is stored locally on your device, ensuring complete privacy. 
 
 ---
 
@@ -162,45 +185,6 @@ The following features may be added in the future:
 - Search and filter options to quickly find notes.
 - Tags or categories for better organization.
 - Multi-language support for voice recognition.
-
----
-
-### 🔴**Special Features of ThinkPad**
-
-#### **1. Voice Recognition for Hands Free Note Taking**
-   - Dictate your notes instead of typing, using the built in **voice recognition** feature.
-   - Microphone icons are available beside both the **Title** and **Content** fields in the note modal.
-   - Perfect for users who want a faster and more efficient way to record their thoughts or for situations where typing isn’t convenient.
-
-#### **2. Auto Save to Local Storage**
-   - All notes are automatically saved to your browser’s **local storage**, ensuring privacy and data persistence.
-   - Notes remain available even if you close or refresh the application, without requiring an internet connection.
-
-#### **3. Fully Responsive Design**
-   - The interface adapts to various screen sizes, including mobile phones, tablets, and desktops.
-   - Enjoy a seamless experience on any device, whether you're working on the go or at your desk.
-
-#### **4. Edit and Update Notes Easily**
-   - Modify existing notes effortlessly with the **Edit** button.
-   - Previous content is prefilled in the modal, allowing you to make quick updates without starting from scratch.
-
-#### **5. Rich Text Formatting**
-   - Supports **line breaks** in the content field, allowing you to create structured and easy to read notes.
-   - Automatically converts new lines into `<br>` tags for proper display.
-
-#### **6. Lightweight and Fast**
-   - The application is built using lightweight technologies such as **Tailwind CSS** and **Font Awesome**, ensuring fast load times and smooth performance.
-
-#### **7. User Friendly Grid Layout**
-   - Notes are displayed in a **clean and organized grid**, making it easy to browse and find what you need.
-   - Supports dynamic resizing for better viewing on various screen resolutions.
-
-#### **8. Easy Note Deletion**
-   - Quickly remove notes you no longer need with the **Delete** button, keeping your workspace clutter free.
-
-#### **9. No Account Required**
-   - Unlike many apps, **ThinkPad** does not require user registration or login.
-   - All data is stored locally on your device, ensuring complete privacy.
 
 ---
 
